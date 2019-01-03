@@ -3,6 +3,8 @@ iOS 无线通知(固定通知，JSBox中的幽灵触发器)的实现，可以在
 
 介绍文章：https://juejin.im/post/5c2c16b66fb9a049e12a4f0e
 
+有问题或者建议欢迎加我微信ruiwendelll，我们一起探讨学习，谢谢了！
+
 
 
 
